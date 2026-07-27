@@ -38,7 +38,7 @@ Sistema web de gestión para pequeños negocios, orientado al control de:
 El backend incluye autenticación JWT, contraseñas protegidas con Argon2,
 roles de administrador y vendedor, trazabilidad de operaciones y PostgreSQL.
 
-**Estado actual:** Version 0.1.0
+**Estado actual:** Version inicial
 
 ## Contacto
 
