@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola, soy Matías González 
 
-<!--
-**MatiasFGG/MatiasFGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Analista Programador y estoy desarrollando proyectos
+orientados a resolver necesidades reales de pequeñas empresas.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudiante de Analista Programador.
+- Interesado en desarrollo backend, bases de datos y aplicaciones web.
+- En proceso de formación en C#, Java, Phyton y consulta de datos.
+- Actualmente desarrollando StockGuard PyME.
+
+## Tecnologías
+
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- Git y GitHub
+- APIs REST
+- C#
+- Java
+
+## Proyecto destacado
+
+### StockGuard PyME
+
+Sistema web de gestión para pequeños negocios, orientado al control de:
+
+- Productos e inventario.
+- Ventas.
+- Categorías y proveedores.
+- Usuarios y roles.
+- Movimientos de stock.
+- Reportes comerciales.
+
+El backend incluye autenticación JWT, contraseñas protegidas con Argon2,
+roles de administrador y vendedor, trazabilidad de operaciones y PostgreSQL.
+
+**Estado actual:** Version 0.1.0
+
+## Contacto
+
+- LinkedIn: próximamente
+- Portafolio: en construcción
