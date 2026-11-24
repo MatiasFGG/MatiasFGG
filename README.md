@@ -29,7 +29,6 @@ C# · Java
 
 ### StockGuard PyME
 
-[Repositorio del proyecto](https://github.com/MatiasFGG/stockguard-pyme)
 
 Aplicación web de gestión comercial e inventario para pequeños negocios, desarrollada como proyecto personal.
 
